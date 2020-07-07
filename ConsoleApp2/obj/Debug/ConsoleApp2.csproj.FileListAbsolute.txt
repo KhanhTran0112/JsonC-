@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\HP\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\HP\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\ChilkatDotNet47.dll
+C:\Users\HP\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\Nancy.dll
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\Nancy.xml
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.xml
