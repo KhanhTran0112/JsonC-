@@ -14,17 +14,17 @@ using System.Threading.Tasks;
 namespace ConsoleApp2.CrawlData
 {
 
-    public class CrawlCategories
+    public class CrawlCategoriesAndProduct
     {
         static string sql = @"Data Source=DESKTOP-8GEUI6U;Initial Catalog=JSON-CSharp;Integrated Security=True";
         public string jsonCategories { get; set; }
 
-        public CrawlCategories()
+        public CrawlCategoriesAndProduct()
         {
 
         }
 
-        public CrawlCategories(string jsonCategories)
+        public CrawlCategoriesAndProduct(string jsonCategories)
         {
             this.jsonCategories = jsonCategories;
         }
@@ -99,7 +99,7 @@ namespace ConsoleApp2.CrawlData
                         System.Text.RegularExpressions.MatchCollection mcProduct = System.Text.RegularExpressions.Regex.Matches(s, @"""name"": ""(.+?)"".+?""id"": ""(.+?)"".+?", RegexOptions.Singleline);
                         foreach(System.Text.RegularExpressions.Match itemProduct in mcProduct)
                         {
-                            string name = itemProduct.Groups[1].Value.Trim().Replace("'"," ");
+                            string name = itemProduct.Groups[1].Value.Trim().Replace("'","''");
                             string id = itemProduct.Groups[2].Value.Trim();
                             string url = "https://api.scalablepress.com/v3/products/" + itemProduct.Groups[2].Value.Trim();
                             string nameCategory = item.name;

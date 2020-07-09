@@ -60,7 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CrawlData\Category.cs" />
-    <Compile Include="CrawlData\CrawlCategories.cs" />
+    <Compile Include="CrawlData\CrawlCategoriesAndProduct.cs" />
     <Compile Include="CrawlData\Product.cs" />
     <Compile Include="ImageDesign.cs" />
     <Compile Include="Program.cs" />

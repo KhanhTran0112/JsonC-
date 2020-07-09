@@ -138,8 +138,7 @@ namespace ConsoleApp2
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            CrawlCategories crawlCategories = new CrawlCategories();
-            crawlCategories.Product(); ;
+
 
             Console.ReadKey();
         }
