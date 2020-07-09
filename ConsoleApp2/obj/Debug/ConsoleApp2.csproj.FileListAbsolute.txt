@@ -13,3 +13,19 @@ C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\WebApiContrib.Formatting.JavaScriptSer
 C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\Nancy.xml
 C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
 C:\Users\HP\Desktop\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.xml
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\ChilkatDotNet47.dll
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\Nancy.dll
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.dll
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\Nancy.xml
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+D:\Khanh Trần\JsonC-\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.xml
+D:\Khanh Trần\JsonC-\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+D:\Khanh Trần\JsonC-\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Khanh Trần\JsonC-\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+D:\Khanh Trần\JsonC-\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Khanh Trần\JsonC-\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
